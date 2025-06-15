@@ -3,7 +3,7 @@
 *AI-Powered Analysis for ALL File Types - Your Complete Data Analysis Companion*
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Together.ai](https://img.shields.io/badge/Powered%20by-Together.ai-green.svg)](https://together.ai/)
 
 ## 🌟 Overview
@@ -299,9 +299,6 @@ pip install -r requirements-dev.txt
 python -m pytest tests/
 ```
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
