@@ -32,7 +32,7 @@ The Universal Data Analyst Agent is a comprehensive AI-powered tool that can ana
 
 1. **Clone or download the script**:
    ```bash
-   # Save the code as universal_data_analyst.py
+   # Save the code as universal_analyst.py
    ```
 
 2. **Install required packages**:
