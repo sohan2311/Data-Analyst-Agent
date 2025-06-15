@@ -42,7 +42,7 @@ The Universal Data Analyst Agent is a comprehensive AI-powered tool that can ana
 
 3. **Run the agent**:
    ```bash
-   python universal_data_analyst.py
+   python universal_analyst.py
    ```
 
 4. **Enter your Together.ai API key** when prompted
