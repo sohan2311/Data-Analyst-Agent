@@ -336,5 +336,6 @@ python -m pytest tests/
 ```bash
 python universal_analyst.py
 ```
+My API Key = "tgp_v1_z3tfiH3oDSFGl9szn2BzGYpWPtl2Y1OS1MFr2CX-pEU"
 
 *Transform your data into insights with the power of AI!*
