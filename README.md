@@ -334,7 +334,7 @@ python -m pytest tests/
 **Ready to analyze your data?** 🚀
 
 ```bash
-python universal_data_analyst.py
+python universal_analyst.py
 ```
 
 *Transform your data into insights with the power of AI!*
